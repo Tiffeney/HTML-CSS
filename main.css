@@ -1,3 +1,16 @@
+nav {
+    display: fixed;
+    float: right;
+    /* display: block; */
+    
+}
 li {
-    display: inline-block;
+    display: inline;
+    padding: 2px;
+}
+
+#logo {
+    position: relative;
+    right: 190%;
+    
 }
